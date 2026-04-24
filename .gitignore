@@ -1,0 +1,20 @@
+# 编译生成的文件
+build/
+build_new/
+bin/
+*.o
+*.a
+*.so
+
+# 临时文件
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE 配置文件
+.vscode/
+.idea/
+
+# 其他
+config.json
